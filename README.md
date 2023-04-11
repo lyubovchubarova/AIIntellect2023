@@ -4,7 +4,7 @@
 |-------|--------------------------------------------|----------|---------------|
 | 1     | Введение в искусственный интеллект(онлайн) | 5 апреля |       [презентация](https://docs.google.com/presentation/d/1MflcwH496vnvHxE6AsTR7o5cGsZm7M6oVs4LIqEsIlE/edit?usp=sharing)        |
 | 2     | Данные вокруг нас(онлайн)                  | 5 апреля |   [презентация](https://docs.google.com/presentation/d/1cFl8zKv4o26wfeWxC_DgnZu6-7uryAVEX9egOwGvbEE/edit?usp=sharing)        |
-| 3     | Основные задачи машинного обучения         |    12 апреля   |     [презентация](), [датасет с ценами на недвижимость в СПб](https://drive.google.com/file/d/1ckvqC0Er0Y76kiBER0g8jSlEzKq31xbf/view?usp=sharing)          |
+| 3     | Основные задачи машинного обучения         |    12 апреля   |     [презентация](), [датасет с ценами на недвижимость в СПб](https://drive.google.com/file/d/1ckvqC0Er0Y76kiBER0g8jSlEzKq31xbf/view?usp=sharing),  [датасет с ценами на обувь](https://raw.githubusercontent.com/lyubovchubarova/AIIntellect2023/main/Shoe%20prices.csv)         |
 | 4     | NLP: твиттер, смс и спам                   |    12 апреля   |               |
 | 5     | Как работают нейросети?                    |   13 апреля    |               |
 | 6     | Как оценивать системы?                     |    13 апреля   |               |
